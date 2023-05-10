@@ -22,27 +22,27 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#B9f59c;
+    color:#397ed0;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#B9f59c;
+    color:#397ed0;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color: #B9F59C;
+    color: #397ed0;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #B9F59C;
+    background: #397ed0;
 }
 
 .pricing-block-content:hover {
-    border-color:#B9F59C;
+    border-color:#397ed0;
 }
 
 
@@ -68,8 +68,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #B9f59c;
-    border-color: #B9f59c;
+    color: #397ed0;
+    border-color: #397ed0;
 }    
 
 
@@ -296,8 +296,8 @@ h6 {
 /* Button Hover Color */
 
 .button:hover,  input[type="submit"]:hover {
-    border-color:#B9f59c;
-    color:#B9f59c;
+    border-color:#397ed0;
+    color:#397ed0;
 }
 
 
@@ -323,8 +323,8 @@ h6 {
 /* Button Hover Color */
 
 #banner .button:hover {
-    color:#B9F59C;
-    border-color:#B9F59C;
+    color:#397ed0;
+    border-color:#397ed0;
 }
 
 
